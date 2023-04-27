@@ -3,4 +3,5 @@ using MediatR;
 
 namespace TodoApi.Models.Commands;
 
-public record UpdateTodoCommand(Guid Id, string Name) : IRequest<UpdateTodoResponse>;
+public record UpdateTodoCommand(Guid Id, string Name) 
+    : IRequest<UpdateTodoResponse>;

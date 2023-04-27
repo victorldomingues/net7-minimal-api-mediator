@@ -7,5 +7,5 @@ public record CreateTodoResponse
     Guid Id,
     string Name,
     DateTime CreatedAt,
-    Status status
+    Status Status
 );
