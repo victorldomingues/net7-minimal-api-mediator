@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations.Schema;
-using TodoApi.ValueObjects;
+using TodoApi.Models.ValueObjects;
 
 namespace TodoApi.Models.Entities;
 

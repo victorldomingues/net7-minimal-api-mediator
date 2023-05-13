@@ -1,4 +1,4 @@
-using TodoApi.ValueObjects;
+using TodoApi.Models.ValueObjects;
 
 namespace TodoApi.Models.Responses;
 

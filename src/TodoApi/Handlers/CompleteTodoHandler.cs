@@ -1,6 +1,5 @@
 using TodoApi.Context;
 using TodoApi.Models.Commands;
-using TodoApi.Models.Entities;
 using TodoApi.Models.Responses;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
